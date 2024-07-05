@@ -14,17 +14,9 @@ This project analyzes Malaysian Ringgit (MYR) exchange rates against major curre
 - `data/`: Raw and processed data files
 - `notebooks/`: Jupyter notebooks for analysis
 - `src/`: Source code for data processing and analysis
-- `tests/`: Unit tests
-- `docs/`: Project documentation
 
 ## Setup
 
-[Instructions for setting up the project environment]
-
 ## Usage
 
-[Instructions on how to run the analysis or use the tools developed]
-
 ## Contributing
-
-[Guidelines for contributing to the project]
